@@ -4,5 +4,10 @@
         "/sounds/sicksample-cc-40.mp3",
         "/sounds/amen-break-140bpm-1.mp3",
         "/sounds/lime-bike.mp3"
+    ],
+    "rr": [
+        "/sounds/rr.mp3",
+        "/sounds/rr-1.mp3",
+        "/sounds/rr-2.mp3"
     ]
 }
