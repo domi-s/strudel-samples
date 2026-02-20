@@ -2,6 +2,7 @@
     "_base":"https://raw.githubusercontent.com/domi-s/strudel-samples/main/",
     "samples": [
         "/sounds/sicksample-cc-40.mp3",
-        "/sounds/amen-break-140bpm-1.mp3"
+        "/sounds/amen-break-140bpm-1.mp3",
+        "/sounds/lime-bike.mp3"
     ]
 }
