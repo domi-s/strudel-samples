@@ -9,5 +9,8 @@
         "/sounds/rr.mp3",
         "/sounds/rr-1.mp3",
         "/sounds/rr-2.mp3"
+    ],
+    "ks": [
+        "/sounds/ks.mp3",
     ]
 }
