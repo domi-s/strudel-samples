@@ -3,7 +3,8 @@
     "samples": [
         "/sounds/sicksample-cc-40.mp3",
         "/sounds/amen-break-140bpm-1.mp3",
-        "/sounds/lime-bike.mp3"
+        "/sounds/lime-bike.mp3",
+        "/sounds/synth_lead_keyEmin_70bpm.wav"
     ],
     "rr": [
         "/sounds/rr.mp3",
