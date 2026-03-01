@@ -13,5 +13,11 @@
     ],
     "ks": [
         "/sounds/ks.mp3"
+    ],
+    "musicradar-synthoneshots": [
+        "/musicradar-synthoneshots/Jungle_WaveStrings_Bmin9.wav",
+        "/musicradar-synthoneshots/Jungle_WaveStrings_C9.wav",
+        "/musicradar-synthoneshots/Jungle_WaveStrings_Emin9.wav",
+        "/musicradar-synthoneshots/Jungle_WaveStrings_F9.wav"
     ]
 }
