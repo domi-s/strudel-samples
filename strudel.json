@@ -20,8 +20,8 @@
         "/musicradar-synthoneshots/Jungle_WaveStrings_Emin9.wav",
         "/musicradar-synthoneshots/Jungle_WaveStrings_F9.wav"
     ],
-    "breaks": [
-        "/breaks/soft-chopped-think-break_170bpm.wav",
-        "/breaks/amen-break-think-break-fill_170bpm.wav"
+    "dsbreaks": [
+        "/dsbreaks/soft-chopped-think-break_170bpm.wav",
+        "/dsbreaks/amen-break-think-break-fill_170bpm.wav"
     ]
 }
