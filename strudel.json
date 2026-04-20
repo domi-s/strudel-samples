@@ -23,5 +23,10 @@
     "dsbreaks": [
         "/dsbreaks/soft-chopped-think-break_170bpm.wav",
         "/dsbreaks/amen-break-think-break-fill_170bpm.wav"
+    ],
+    "dssamples": [
+        "/dssamples/did-you-know-jungle-is-massive.wav",
+        "/dssamples/how-do-you-sound-posh-aup",
+        "/dssamples/junglist-massive-01"
     ]
 }
